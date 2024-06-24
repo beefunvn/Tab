@@ -1,0 +1,5 @@
+name: Tab
+version: '${project.version}'
+main: dev.tranducminh.tab.Tab
+api-version: '1.20'
+folia-supported: true
