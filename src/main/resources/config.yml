@@ -1,9 +1,4 @@
-header:
-  - ''
-  - '&3&lSteak &r- &4&lSurvival'
-  - ''
-  - '&6Mới ra lò!'
-
-footer:
-  - ''
-  - '&8%tps% tps - %online% players online - %ping% ping'
+help:
+  - ""
+  - "&6ducminh21208.github.io/web"
+  - ""
