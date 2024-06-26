@@ -1,0 +1,9 @@
+name: Help
+version: '${version}'
+main: dev.tranducminh.help.Help
+api-version: '1.20'
+folia-supported: true
+
+commands:
+  help:
+    usage: <command>
